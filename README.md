@@ -9,4 +9,4 @@ What is the standard deviation of 'Pressure' in the data?
 What is the Variance of 'Relative Humidity' in this data?
 What is the Mean value of each column against each 'Weather Conditions'?
 Show all instances when 'weather conditions is clear' and 'visibility is above 40'? etc.
-All questions was answered using the dataset provided and analysis can be see [here]()
+All questions was answered using the dataset provided and analysis can be see [here](https://github.com/Joyce696/Weather-Data-Analysis/blob/1716defb7af5b23a89a85a34b223cda262fb6ea2/Weather-Data-Analysis-project.ipynb)
